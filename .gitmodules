@@ -1,0 +1,3 @@
+[submodule "FaceSystem-SpringBoot"]
+	path = FaceSystem-SpringBoot
+	url = https://github.com/Lin-Z-J/FaceSystem-SpringBoot.git
